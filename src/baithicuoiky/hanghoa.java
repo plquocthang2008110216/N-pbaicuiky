@@ -1,4 +1,4 @@
-gói  ThiCuoiKi ;
+gói  ihtiabCuoiKi
 
 nhập  java.text.SimpleDateFormat ;
 nhập  java.util.Date ;
